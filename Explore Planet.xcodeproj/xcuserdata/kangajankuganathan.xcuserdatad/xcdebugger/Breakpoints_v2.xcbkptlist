@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "87672936-41C9-4B2C-9C7A-C9869EAB627E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93B78E0C-3D61-4C11-A8F8-AF390289F9F4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Explore Planet/ViewControllers/PlanetDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "planetNameDataView"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "93B78E0C-3D61-4C11-A8F8-AF390289F9F4 - f0990b3e33679e09"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Explore_Planet.PlanetDataView in variable initialization expression of Explore_Planet.PlanetDetailsViewController.planetNameDataView : Explore_Planet.PlanetDataView"
+                  moduleName = "Explore Planet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kangajankuganathan/Documents/Explore%20Planet/Explore%20Planet/ViewControllers/PlanetDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "93B78E0C-3D61-4C11-A8F8-AF390289F9F4 - 6bd0e7a60eadfb47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Explore_Planet.PlanetDetailsViewController.init(viewModel: Explore_Planet.PlanetDetailsViewModel) -&gt; Explore_Planet.PlanetDetailsViewController"
+                  moduleName = "Explore Planet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kangajankuganathan/Documents/Explore%20Planet/Explore%20Planet/ViewControllers/PlanetDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "93B78E0C-3D61-4C11-A8F8-AF390289F9F4 - 608c60d381f0fa07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Explore_Planet.PlanetDetailsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Explore_Planet.PlanetDetailsViewController&gt;"
+                  moduleName = "Explore Planet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kangajankuganathan/Documents/Explore%20Planet/Explore%20Planet/ViewControllers/PlanetDetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
